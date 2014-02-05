@@ -1,0 +1,7 @@
+2014/02/05	edenzul
+- create branch edenzul
+- create following directories:
+	admin	* contains administrative/backend tools for website
+	img	* supported picture/image used in website
+- create CHANGES file for controling
+
